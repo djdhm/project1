@@ -1,9 +1,16 @@
 package main
 
-import "fmt"
-import t "github.com/djdhm/lib1/lib"
+import (
+	"fmt"
+
+	ext "github.com/djdhm/external-dep/lib"
+	dep1 "github.com/djdhm/moab-dep-1/lib"
+	dep2 "github.com/djdhm/moab-dep-2/lib"
+)
 
 func main() {
-        t.Testing()
-	fmt.Println("vim-go")
+	dep1.PrintVersion()
+	dep2.TestLib()
+	fmt.Println("Direct call from project to external dep with version = " + ext.Version())
+
 }

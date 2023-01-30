@@ -1,0 +1,6 @@
+github.com/djdhm/external-dep v1.0.1 h1:FC+/4dgOqjimz4598VzHi5M/P4JkFVbev9nwUKTE/nA=
+github.com/djdhm/external-dep v1.0.1/go.mod h1:uw7ZjDLDLWZ1rmhwRWcypJPWMxFko1WI/oj6zudhJQE=
+github.com/djdhm/moab-dep-1 v1.0.0 h1:LbEnBhltg9wIUPNpKjfUosi+q6VmwaXMFcFlIqb+osw=
+github.com/djdhm/moab-dep-1 v1.0.0/go.mod h1:iju8EmlAN/2M/EUo8jEKVxgwognomWP4HuLwhaMPF6Q=
+github.com/djdhm/moab-dep-2 v1.0.0 h1:YW3uV63bYpETgqmmOcfPk4/wnI6y8xpU08dnrxDhmOQ=
+github.com/djdhm/moab-dep-2 v1.0.0/go.mod h1:ioZoc7ZzzfiJ3la879Vo9+BJOGzJhOL4IAs0Tw0ZDe0=
